@@ -28,6 +28,8 @@ status-website:
   cname: status.themonetizr.com
   # baseUrl: /upptime
   logoUrl: https://avatars.githubusercontent.com/u/19929995?s=400&u=09ff5e444cb162ccdf5dcda6252e6d58a0fc87f4&v=4
+  theme: dark
+  favicon: https://app.themonetizr.com/favicon.ico
   name: Monetizr
   introTitle: "**Monetizr** Status Dashboard"
   introMessage: This page provides status information on the services that are part of Monetizr. Check back here to view the current status of the services listed below. If you are experiencing an issue not listed here, please contact Support.
