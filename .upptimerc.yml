@@ -11,6 +11,10 @@ sites:
     url: https://api.themonetizr.com
   - name: Image server
     url: https://image.themonetizr.com
+    expectedStatusCodes:
+      - 200
+      - 201
+      - 403
   - name: Homepage
     url: https://themonetizr.com
   - name: Docs
