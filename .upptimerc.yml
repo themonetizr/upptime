@@ -17,6 +17,8 @@ sites:
     url: https://tutorial.themonetizr.com
   - name: Pacman
     url: https://pacman.themonetizr.com
+  - name: Test Broken Site
+    url: https://thissitedoesnotexist.koj.co
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
