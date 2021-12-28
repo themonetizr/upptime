@@ -11,13 +11,19 @@ sites:
     url: https://themonetizr.com
   - name: Docs
     url: https://docs.themonetizr.com
+  - name: Trash Dash Web
+    url: https://trash.themonetizr.com
+  - name: Tic Tac Toe
+    url: https://tutorial.themonetizr.com
+  - name: Pacman
+    url: https://pacman.themonetizr.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.themonetizr.com
   # baseUrl: /upptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://avatars.githubusercontent.com/u/19929995?s=400&u=09ff5e444cb162ccdf5dcda6252e6d58a0fc87f4&v=4
   name: Monetizr
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: This is a generated status page displaying status of Monetizr services.
