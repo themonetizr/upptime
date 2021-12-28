@@ -9,16 +9,12 @@ sites:
     url: https://api3.themonetizr.com
   - name: Console
     url: https://api.themonetizr.com
+  - name: Image server
+    url: https://image.themonetizr.com
   - name: Homepage
     url: https://themonetizr.com
   - name: Docs
     url: https://docs.themonetizr.com
-  - name: Trash Dash Web
-    url: https://trash.themonetizr.com
-  - name: Tic Tac Toe
-    url: https://tutorial.themonetizr.com
-  - name: Pacman
-    url: https://pacman.themonetizr.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
