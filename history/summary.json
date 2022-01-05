@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 160,
-    "timeDay": 250,
-    "timeWeek": 152,
+    "timeDay": 142,
+    "timeWeek": 153,
     "timeMonth": 160,
     "timeYear": 160,
     "dailyMinutesDown": {}
@@ -29,8 +29,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 166,
-    "timeDay": 286,
-    "timeWeek": 178,
+    "timeDay": 158,
+    "timeWeek": 179,
     "timeMonth": 166,
     "timeYear": 166,
     "dailyMinutesDown": {}
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 117,
-    "timeDay": 120,
-    "timeWeek": 105,
-    "timeMonth": 117,
-    "timeYear": 117,
+    "time": 118,
+    "timeDay": 130,
+    "timeWeek": 107,
+    "timeMonth": 118,
+    "timeYear": 118,
     "dailyMinutesDown": {}
   },
   {
@@ -58,18 +58,20 @@
     "url": "https://themonetizr.com",
     "icon": "https://favicons.githubusercontent.com/themonetizr.com",
     "slug": "homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 253,
-    "timeDay": 459,
-    "timeWeek": 244,
-    "timeMonth": 253,
-    "timeYear": 253,
-    "dailyMinutesDown": {}
+    "time": 251,
+    "timeDay": 235,
+    "timeWeek": 245,
+    "timeMonth": 251,
+    "timeYear": 251,
+    "dailyMinutesDown": {
+      "2022-01-05": 0
+    }
   },
   {
     "name": "Docs",
@@ -82,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 312,
-    "timeDay": 1463,
-    "timeWeek": 408,
-    "timeMonth": 312,
-    "timeYear": 312,
+    "time": 311,
+    "timeDay": 281,
+    "timeWeek": 402,
+    "timeMonth": 311,
+    "timeYear": 311,
     "dailyMinutesDown": {}
   }
 ]
