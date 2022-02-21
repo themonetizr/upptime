@@ -22,18 +22,20 @@
     "url": "https://api.themonetizr.com",
     "icon": "https://favicons.githubusercontent.com/api.themonetizr.com",
     "slug": "console",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 181,
-    "timeDay": 156,
-    "timeWeek": 172,
-    "timeMonth": 179,
+    "timeDay": 188,
+    "timeWeek": 178,
+    "timeMonth": 180,
     "timeYear": 181,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-02-21": 0
+    }
   },
   {
     "name": "Image server",
