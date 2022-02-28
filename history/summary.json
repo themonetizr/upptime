@@ -4,9 +4,9 @@
     "url": "https://api3.themonetizr.com",
     "icon": "https://favicons.githubusercontent.com/api3.themonetizr.com",
     "slug": "monetizr-api",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.67%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.96%",
@@ -16,6 +16,7 @@
     "timeMonth": 173,
     "timeYear": 175,
     "dailyMinutesDown": {
+      "2022-02-28": 0,
       "2022-02-21": 33
     }
   },
