@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/api3.themonetizr.com.ico",
     "slug": "monetizr-api",
     "status": "up",
-    "uptime": "92.27%",
+    "uptime": "92.28%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "91.11%",
-    "time": 288,
-    "timeDay": 134,
-    "timeWeek": 222,
-    "timeMonth": 540,
-    "timeYear": 310,
+    "time": 289,
+    "timeDay": 634,
+    "timeWeek": 264,
+    "timeMonth": 332,
+    "timeYear": 312,
     "dailyMinutesDown": {
       "2022-11-09": 441,
       "2022-11-08": 1440,
@@ -52,8 +52,7 @@
       "2022-10-07": 58,
       "2022-07-28": 32,
       "2022-06-21": 28,
-      "2022-04-01": 45,
-      "2022-02-21": 33
+      "2022-04-01": 45
     }
   },
   {
@@ -67,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.85%",
-    "time": 359,
-    "timeDay": 221,
-    "timeWeek": 319,
-    "timeMonth": 689,
-    "timeYear": 393,
+    "time": 360,
+    "timeDay": 583,
+    "timeWeek": 384,
+    "timeMonth": 518,
+    "timeYear": 394,
     "dailyMinutesDown": {
       "2022-08-03": 20,
       "2022-07-28": 31,
@@ -81,8 +80,7 @@
       "2022-05-15": 42,
       "2022-05-12": 65,
       "2022-04-22": 33,
-      "2022-04-01": 156,
-      "2022-02-21": 43
+      "2022-04-01": 156
     }
   },
   {
@@ -97,9 +95,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 317,
-    "timeDay": 176,
-    "timeWeek": 140,
-    "timeMonth": 467,
+    "timeDay": 175,
+    "timeWeek": 152,
+    "timeMonth": 384,
     "timeYear": 345,
     "dailyMinutesDown": {
       "2022-06-21": 16,
@@ -121,11 +119,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.75%",
     "uptimeYear": "99.87%",
-    "time": 977,
-    "timeDay": 651,
-    "timeWeek": 839,
-    "timeMonth": 2055,
-    "timeYear": 1102,
+    "time": 976,
+    "timeDay": 837,
+    "timeWeek": 906,
+    "timeMonth": 1640,
+    "timeYear": 1104,
     "dailyMinutesDown": {
       "2023-02-08": 64,
       "2023-01-30": 47,
@@ -154,9 +152,9 @@
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.88%",
     "time": 557,
-    "timeDay": 225,
-    "timeWeek": 391,
-    "timeMonth": 641,
+    "timeDay": 243,
+    "timeWeek": 399,
+    "timeMonth": 578,
     "timeYear": 595,
     "dailyMinutesDown": {
       "2023-02-08": 43,
