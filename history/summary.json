@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/api3.themonetizr.com.ico",
     "slug": "monetizr-api",
     "status": "up",
-    "uptime": "93.99%",
+    "uptime": "94.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "91.13%",
     "time": 316,
-    "timeDay": 140,
-    "timeWeek": 409,
-    "timeMonth": 276,
+    "timeDay": 182,
+    "timeWeek": 406,
+    "timeMonth": 274,
     "timeYear": 331,
     "dailyMinutesDown": {
       "2022-11-09": 441,
@@ -50,8 +50,7 @@
       "2022-10-09": 1440,
       "2022-10-08": 1440,
       "2022-10-07": 58,
-      "2022-07-28": 32,
-      "2022-06-21": 28
+      "2022-07-28": 32
     }
   },
   {
@@ -66,15 +65,14 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
     "time": 358,
-    "timeDay": 203,
-    "timeWeek": 375,
-    "timeMonth": 234,
+    "timeDay": 244,
+    "timeWeek": 377,
+    "timeMonth": 236,
     "timeYear": 320,
     "dailyMinutesDown": {
       "2022-08-03": 20,
       "2022-07-28": 31,
-      "2022-07-19": 344,
-      "2022-06-21": 28
+      "2022-07-19": 344
     }
   },
   {
@@ -89,13 +87,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 296,
-    "timeDay": 133,
-    "timeWeek": 134,
+    "timeDay": 168,
+    "timeWeek": 137,
     "timeMonth": 137,
-    "timeYear": 261,
-    "dailyMinutesDown": {
-      "2022-06-21": 16
-    }
+    "timeYear": 262,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Homepage",
@@ -108,9 +104,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 1150,
-    "timeDay": 509,
-    "timeWeek": 805,
+    "time": 1151,
+    "timeDay": 778,
+    "timeWeek": 794,
     "timeMonth": 762,
     "timeYear": 1090,
     "dailyMinutesDown": {
@@ -138,9 +134,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 557,
-    "timeDay": 239,
-    "timeWeek": 418,
-    "timeMonth": 350,
+    "timeDay": 412,
+    "timeWeek": 412,
+    "timeMonth": 351,
     "timeYear": 509,
     "dailyMinutesDown": {
       "2023-04-06": 21,
@@ -150,8 +146,7 @@
       "2022-08-24": 58,
       "2022-08-23": 41,
       "2022-07-02": 50,
-      "2022-06-30": 74,
-      "2022-06-21": 27
+      "2022-06-30": 74
     }
   }
 ]
