@@ -9,7 +9,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.85%",
-    "uptimeYear": "93.26%",
+    "uptimeYear": "93.27%",
     "time": 728,
     "timeDay": 12970,
     "timeWeek": 7529,
@@ -49,11 +49,11 @@
     "url": "https://api.themonetizr.com",
     "icon": "https://icons.duckduckgo.com/ip3/api.themonetizr.com.ico",
     "slug": "console",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "99.58%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.90%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
     "time": 922,
     "timeDay": 11520,
@@ -61,7 +61,7 @@
     "timeMonth": 6619,
     "timeYear": 1175,
     "dailyMinutesDown": {
-      "2023-10-15": 6,
+      "2023-10-15": 0,
       "2023-09-26": 39
     }
   },
