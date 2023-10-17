@@ -5,18 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/api3.themonetizr.com.ico",
     "slug": "monetizr-api",
     "status": "up",
-    "uptime": "95.06%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.83%",
-    "uptimeYear": "93.53%",
+    "uptime": "95.07%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.85%",
+    "uptimeYear": "93.61%",
     "time": 780,
-    "timeDay": 9688,
-    "timeWeek": 8336,
+    "timeDay": 9615,
+    "timeWeek": 8339,
     "timeMonth": 5941,
-    "timeYear": 1015,
+    "timeYear": 1016,
     "dailyMinutesDown": {
-      "2023-10-16": 9,
       "2023-09-26": 65,
       "2022-11-09": 441,
       "2022-11-08": 1440,
@@ -40,8 +39,7 @@
       "2022-10-21": 1440,
       "2022-10-20": 1440,
       "2022-10-19": 1440,
-      "2022-10-18": 1440,
-      "2022-10-17": 1440
+      "2022-10-18": 1440
     }
   },
   {
@@ -56,10 +54,10 @@
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
     "time": 934,
-    "timeDay": 3676,
-    "timeWeek": 7647,
-    "timeMonth": 6626,
-    "timeYear": 1203,
+    "timeDay": 903,
+    "timeWeek": 7657,
+    "timeMonth": 6630,
+    "timeYear": 1204,
     "dailyMinutesDown": {
       "2023-09-26": 39
     }
@@ -76,8 +74,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 234,
-    "timeDay": 137,
-    "timeWeek": 125,
+    "timeDay": 133,
+    "timeWeek": 133,
     "timeMonth": 134,
     "timeYear": 234,
     "dailyMinutesDown": {}
@@ -94,9 +92,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 992,
-    "timeDay": 1060,
-    "timeWeek": 593,
-    "timeMonth": 575,
+    "timeDay": 698,
+    "timeWeek": 658,
+    "timeMonth": 586,
     "timeYear": 1075,
     "dailyMinutesDown": {
       "2023-04-19": 17,
@@ -123,9 +121,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 479,
-    "timeDay": 461,
-    "timeWeek": 316,
-    "timeMonth": 316,
+    "timeDay": 231,
+    "timeWeek": 322,
+    "timeMonth": 318,
     "timeYear": 459,
     "dailyMinutesDown": {
       "2023-04-06": 21,
