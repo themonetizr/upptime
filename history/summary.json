@@ -5,14 +5,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/api3.themonetizr.com.ico",
     "slug": "monetizr-api",
     "status": "up",
-    "uptime": "95.09%",
+    "uptime": "95.10%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.85%",
-    "uptimeYear": "94.43%",
+    "uptimeYear": "94.70%",
     "time": 821,
-    "timeDay": 1121,
-    "timeWeek": 9142,
+    "timeDay": 191,
+    "timeWeek": 8078,
     "timeMonth": 6283,
     "timeYear": 1072,
     "dailyMinutesDown": {
@@ -35,8 +35,7 @@
       "2022-10-25": 1440,
       "2022-10-24": 1440,
       "2022-10-23": 1440,
-      "2022-10-22": 1440,
-      "2022-10-21": 1440
+      "2022-10-22": 1440
     }
   },
   {
@@ -50,11 +49,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
-    "time": 934,
-    "timeDay": 193,
-    "timeWeek": 8014,
-    "timeMonth": 6634,
-    "timeYear": 1205,
+    "time": 933,
+    "timeDay": 130,
+    "timeWeek": 7137,
+    "timeMonth": 6633,
+    "timeYear": 1204,
     "dailyMinutesDown": {
       "2023-09-26": 39
     }
@@ -71,9 +70,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 234,
-    "timeDay": 163,
-    "timeWeek": 141,
-    "timeMonth": 133,
+    "timeDay": 122,
+    "timeWeek": 132,
+    "timeMonth": 132,
     "timeYear": 233,
     "dailyMinutesDown": {}
   },
@@ -88,11 +87,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 993,
-    "timeDay": 1857,
-    "timeWeek": 942,
-    "timeMonth": 643,
-    "timeYear": 1078,
+    "time": 992,
+    "timeDay": 710,
+    "timeWeek": 899,
+    "timeMonth": 651,
+    "timeYear": 1079,
     "dailyMinutesDown": {
       "2023-04-19": 17,
       "2023-04-17": 15,
@@ -118,9 +117,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 479,
-    "timeDay": 638,
-    "timeWeek": 369,
-    "timeMonth": 340,
+    "timeDay": 250,
+    "timeWeek": 351,
+    "timeMonth": 331,
     "timeYear": 459,
     "dailyMinutesDown": {
       "2023-04-06": 21,
