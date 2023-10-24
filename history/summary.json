@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/api3.themonetizr.com.ico",
     "slug": "monetizr-api",
     "status": "up",
-    "uptime": "95.11%",
+    "uptime": "95.12%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.85%",
-    "uptimeYear": "95.25%",
+    "uptimeYear": "95.52%",
     "time": 821,
-    "timeDay": 155,
-    "timeWeek": 5288,
-    "timeMonth": 6275,
+    "timeDay": 203,
+    "timeWeek": 3030,
+    "timeMonth": 6270,
     "timeYear": 1072,
     "dailyMinutesDown": {
       "2023-09-26": 65,
@@ -32,8 +32,7 @@
       "2022-10-28": 1440,
       "2022-10-27": 1440,
       "2022-10-26": 1440,
-      "2022-10-25": 1440,
-      "2022-10-24": 1440
+      "2022-10-25": 1440
     }
   },
   {
@@ -48,9 +47,9 @@
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
     "time": 934,
-    "timeDay": 159,
-    "timeWeek": 395,
-    "timeMonth": 6632,
+    "timeDay": 271,
+    "timeWeek": 233,
+    "timeMonth": 6633,
     "timeYear": 1204,
     "dailyMinutesDown": {
       "2023-09-26": 39
@@ -68,8 +67,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 233,
-    "timeDay": 158,
-    "timeWeek": 125,
+    "timeDay": 151,
+    "timeWeek": 127,
     "timeMonth": 133,
     "timeYear": 233,
     "dailyMinutesDown": {}
@@ -86,10 +85,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 992,
-    "timeDay": 751,
-    "timeWeek": 796,
-    "timeMonth": 670,
-    "timeYear": 1078,
+    "timeDay": 302,
+    "timeWeek": 740,
+    "timeMonth": 662,
+    "timeYear": 1077,
     "dailyMinutesDown": {
       "2023-04-19": 17,
       "2023-04-17": 15,
@@ -115,9 +114,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 481,
-    "timeDay": 456,
-    "timeWeek": 368,
-    "timeMonth": 340,
+    "timeDay": 547,
+    "timeWeek": 413,
+    "timeMonth": 351,
     "timeYear": 459,
     "dailyMinutesDown": {
       "2023-04-06": 21,
