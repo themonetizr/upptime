@@ -4,18 +4,19 @@
     "url": "https://api3.themonetizr.com",
     "icon": "https://icons.duckduckgo.com/ip3/api3.themonetizr.com.ico",
     "slug": "monetizr-api",
-    "status": "up",
+    "status": "down",
     "uptime": "95.38%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 821,
+    "time": 823,
     "timeDay": 129,
     "timeWeek": 239,
     "timeMonth": 282,
     "timeYear": 1070,
     "dailyMinutesDown": {
+      "2023-11-30": 1,
       "2023-09-26": 65
     }
   },
@@ -24,18 +25,19 @@
     "url": "https://api.themonetizr.com",
     "icon": "https://icons.duckduckgo.com/ip3/api.themonetizr.com.ico",
     "slug": "console",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 927,
+    "time": 929,
     "timeDay": 170,
     "timeWeek": 236,
     "timeMonth": 232,
     "timeYear": 1190,
     "dailyMinutesDown": {
+      "2023-11-30": 1,
       "2023-09-26": 39
     }
   },
@@ -44,10 +46,10 @@
     "url": "https://image.themonetizr.com",
     "icon": "https://icons.duckduckgo.com/ip3/image.themonetizr.com.ico",
     "slug": "image-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 219,
@@ -55,7 +57,9 @@
     "timeWeek": 151,
     "timeMonth": 141,
     "timeYear": 222,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-11-30": 1
+    }
   },
   {
     "name": "Homepage",
