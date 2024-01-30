@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 826,
-    "timeDay": 208,
-    "timeWeek": 188,
-    "timeMonth": 236,
+    "timeDay": 245,
+    "timeWeek": 198,
+    "timeMonth": 226,
     "timeYear": 1028,
     "dailyMinutesDown": {
       "2023-12-25": 48,
@@ -32,9 +32,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 918,
-    "timeDay": 493,
-    "timeWeek": 278,
-    "timeMonth": 217,
+    "timeDay": 180,
+    "timeWeek": 279,
+    "timeMonth": 219,
     "timeYear": 1161,
     "dailyMinutesDown": {
       "2023-12-25": 16,
@@ -52,9 +52,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 212,
-    "timeDay": 113,
-    "timeWeek": 149,
+    "time": 211,
+    "timeDay": 118,
+    "timeWeek": 140,
     "timeMonth": 138,
     "timeYear": 169,
     "dailyMinutesDown": {
@@ -73,9 +73,9 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.91%",
     "time": 995,
-    "timeDay": 579,
-    "timeWeek": 583,
-    "timeMonth": 579,
+    "timeDay": 636,
+    "timeWeek": 632,
+    "timeMonth": 586,
     "timeYear": 967,
     "dailyMinutesDown": {
       "2024-01-17": 24,
@@ -87,8 +87,7 @@
       "2023-03-13": 48,
       "2023-03-11": 15,
       "2023-03-10": 42,
-      "2023-02-08": 64,
-      "2023-01-30": 47
+      "2023-02-08": 64
     }
   },
   {
@@ -98,24 +97,22 @@
     "slug": "docs",
     "status": "up",
     "uptime": "99.92%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 526,
-    "timeDay": 899,
-    "timeWeek": 1196,
-    "timeMonth": 990,
-    "timeYear": 510,
+    "time": 529,
+    "timeDay": 1597,
+    "timeWeek": 1386,
+    "timeMonth": 1024,
+    "timeYear": 513,
     "dailyMinutesDown": {
-      "2024-01-29": 9,
       "2023-12-27": 28,
       "2023-12-25": 145,
       "2023-11-13": 20,
       "2023-04-06": 21,
       "2023-03-10": 21,
-      "2023-02-08": 43,
-      "2023-01-30": 39
+      "2023-02-08": 43
     }
   }
 ]
