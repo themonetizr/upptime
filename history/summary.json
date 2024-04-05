@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/api3.themonetizr.com.ico",
     "slug": "monetizr-api",
     "status": "up",
-    "uptime": "96.07%",
+    "uptime": "96.08%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 811,
-    "timeDay": 239,
-    "timeWeek": 209,
-    "timeMonth": 218,
+    "timeDay": 209,
+    "timeWeek": 213,
+    "timeMonth": 215,
     "timeYear": 1000,
     "dailyMinutesDown": {
       "2023-12-25": 48,
@@ -32,10 +32,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 949,
-    "timeDay": 115,
-    "timeWeek": 324,
-    "timeMonth": 235,
-    "timeYear": 1181,
+    "timeDay": 241,
+    "timeWeek": 295,
+    "timeMonth": 232,
+    "timeYear": 1180,
     "dailyMinutesDown": {
       "2023-12-25": 16,
       "2023-09-26": 39
@@ -53,10 +53,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 183,
-    "timeDay": 43,
-    "timeWeek": 115,
-    "timeMonth": 129,
-    "timeYear": 139,
+    "timeDay": 196,
+    "timeWeek": 135,
+    "timeMonth": 128,
+    "timeYear": 140,
     "dailyMinutesDown": {
       "2023-12-25": 71
     }
@@ -73,10 +73,10 @@
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.26%",
     "time": 922,
-    "timeDay": 286,
-    "timeWeek": 426,
-    "timeMonth": 518,
-    "timeYear": 827,
+    "timeDay": 299,
+    "timeWeek": 415,
+    "timeMonth": 516,
+    "timeYear": 826,
     "dailyMinutesDown": {
       "2024-03-08": 70,
       "2024-02-23": 1113,
@@ -101,18 +101,17 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.66%",
-    "time": 509,
-    "timeDay": 434,
-    "timeWeek": 439,
-    "timeMonth": 461,
-    "timeYear": 505,
+    "time": 511,
+    "timeDay": 842,
+    "timeWeek": 511,
+    "timeMonth": 466,
+    "timeYear": 506,
     "dailyMinutesDown": {
       "2024-01-31": 796,
       "2024-01-30": 776,
       "2023-12-27": 28,
       "2023-12-25": 145,
-      "2023-11-13": 20,
-      "2023-04-06": 21
+      "2023-11-13": 20
     }
   }
 ]
