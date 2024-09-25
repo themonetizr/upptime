@@ -5,19 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/api3.themonetizr.com.ico",
     "slug": "monetizr-api",
     "status": "up",
-    "uptime": "96.75%",
+    "uptime": "96.76%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 773,
-    "timeDay": 154,
-    "timeWeek": 180,
-    "timeMonth": 269,
+    "timeDay": 147,
+    "timeWeek": 170,
+    "timeMonth": 262,
     "timeYear": 999,
     "dailyMinutesDown": {
-      "2023-12-25": 48,
-      "2023-09-26": 65
+      "2023-12-25": 48
     }
   },
   {
@@ -32,13 +31,12 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 902,
-    "timeDay": 182,
-    "timeWeek": 192,
-    "timeMonth": 237,
+    "timeDay": 115,
+    "timeWeek": 189,
+    "timeMonth": 231,
     "timeYear": 1167,
     "dailyMinutesDown": {
-      "2023-12-25": 16,
-      "2023-09-26": 39
+      "2023-12-25": 16
     }
   },
   {
@@ -53,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 151,
-    "timeDay": 123,
-    "timeWeek": 143,
-    "timeMonth": 138,
+    "timeDay": 165,
+    "timeWeek": 144,
+    "timeMonth": 136,
     "timeYear": 154,
     "dailyMinutesDown": {
       "2023-12-25": 71
@@ -72,10 +70,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.27%",
-    "time": 634,
-    "timeDay": 350,
-    "timeWeek": 473,
-    "timeMonth": 464,
+    "time": 633,
+    "timeDay": 346,
+    "timeWeek": 483,
+    "timeMonth": 455,
     "timeYear": 607,
     "dailyMinutesDown": {
       "2024-03-08": 70,
@@ -98,11 +96,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.66%",
-    "time": 508,
-    "timeDay": 410,
-    "timeWeek": 443,
-    "timeMonth": 516,
-    "timeYear": 552,
+    "time": 509,
+    "timeDay": 510,
+    "timeWeek": 455,
+    "timeMonth": 503,
+    "timeYear": 553,
     "dailyMinutesDown": {
       "2024-01-31": 796,
       "2024-01-30": 776,
