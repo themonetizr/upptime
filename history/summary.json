@@ -26,9 +26,9 @@
     "slug": "console",
     "status": "up",
     "uptime": "99.94%",
-    "uptimeDay": "99.35%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 931,
     "timeDay": 139,
@@ -36,7 +36,6 @@
     "timeMonth": 210,
     "timeYear": 312,
     "dailyMinutesDown": {
-      "2024-11-05": 9,
       "2023-12-25": 16
     }
   },
@@ -93,9 +92,9 @@
     "slug": "docs",
     "status": "up",
     "uptime": "99.84%",
-    "uptimeDay": "99.34%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.66%",
     "time": 509,
     "timeDay": 525,
@@ -103,7 +102,6 @@
     "timeMonth": 514,
     "timeYear": 566,
     "dailyMinutesDown": {
-      "2024-11-05": 9,
       "2024-01-31": 796,
       "2024-01-30": 776,
       "2023-12-27": 28,
