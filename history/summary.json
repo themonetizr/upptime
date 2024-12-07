@@ -6,9 +6,9 @@
     "slug": "monetizr-api",
     "status": "up",
     "uptime": "96.98%",
-    "uptimeDay": "99.25%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 787,
     "timeDay": 164,
@@ -16,7 +16,6 @@
     "timeMonth": 293,
     "timeYear": 264,
     "dailyMinutesDown": {
-      "2024-12-07": 11,
       "2023-12-25": 48
     }
   },
@@ -25,18 +24,19 @@
     "url": "https://api.themonetizr.com",
     "icon": "https://icons.duckduckgo.com/ip3/api.themonetizr.com.ico",
     "slug": "console",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 972,
+    "time": 973,
     "timeDay": 136,
     "timeWeek": 342,
     "timeMonth": 880,
     "timeYear": 366,
     "dailyMinutesDown": {
+      "2024-12-07": 0,
       "2023-12-25": 16
     }
   },
