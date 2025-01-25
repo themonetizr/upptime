@@ -24,18 +24,19 @@
     "url": "https://api.themonetizr.com",
     "icon": "https://icons.duckduckgo.com/ip3/api.themonetizr.com.ico",
     "slug": "console",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1088,
+    "time": 1051,
     "timeDay": 234,
     "timeWeek": 2358,
     "timeMonth": 816,
     "timeYear": 710,
     "dailyMinutesDown": {
+      "2025-01-25": 0,
       "2024-12-16": 65
     }
   },
