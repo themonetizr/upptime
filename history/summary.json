@@ -4,18 +4,19 @@
     "url": "https://api3.themonetizr.com",
     "icon": "https://icons.duckduckgo.com/ip3/api3.themonetizr.com.ico",
     "slug": "monetizr-api",
-    "status": "up",
+    "status": "down",
     "uptime": "97.11%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 940,
+    "time": 941,
     "timeDay": 547,
     "timeWeek": 3621,
     "timeMonth": 1171,
     "timeYear": 457,
     "dailyMinutesDown": {
+      "2025-01-29": 1,
       "2024-12-16": 81
     }
   },
@@ -24,18 +25,19 @@
     "url": "https://api.themonetizr.com",
     "icon": "https://icons.duckduckgo.com/ip3/api.themonetizr.com.ico",
     "slug": "console",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 956,
+    "time": 917,
     "timeDay": 222,
     "timeWeek": 2178,
     "timeMonth": 762,
     "timeYear": 710,
     "dailyMinutesDown": {
+      "2025-01-29": 1,
       "2024-12-16": 65
     }
   },
@@ -44,9 +46,9 @@
     "url": "https://image.themonetizr.com",
     "icon": "https://icons.duckduckgo.com/ip3/image.themonetizr.com.ico",
     "slug": "image-server",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -55,7 +57,9 @@
     "timeWeek": 141,
     "timeMonth": 148,
     "timeYear": 172,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-01-29": 0
+    }
   },
   {
     "name": "Homepage",
