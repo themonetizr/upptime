@@ -4,7 +4,7 @@
     "url": "https://api3.themonetizr.com",
     "icon": "https://icons.duckduckgo.com/ip3/api3.themonetizr.com.ico",
     "slug": "monetizr-api",
-    "status": "up",
+    "status": "down",
     "uptime": "97.22%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 297,
     "timeYear": 474,
     "dailyMinutesDown": {
+      "2025-03-15": 0,
       "2025-02-09": 27,
       "2024-12-16": 81
     }
