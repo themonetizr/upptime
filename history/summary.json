@@ -6,17 +6,16 @@
     "slug": "monetizr-api",
     "status": "up",
     "uptime": "97.22%",
-    "uptimeDay": "99.19%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 458,
-    "timeDay": 1437,
-    "timeWeek": 711,
-    "timeMonth": 411,
+    "timeDay": 2112,
+    "timeWeek": 617,
+    "timeMonth": 417,
     "timeYear": 483,
     "dailyMinutesDown": {
-      "2025-03-15": 12,
       "2025-02-09": 27,
       "2024-12-16": 81
     }
@@ -33,10 +32,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 645,
-    "timeDay": 95,
-    "timeWeek": 377,
-    "timeMonth": 299,
-    "timeYear": 752,
+    "timeDay": 126,
+    "timeWeek": 219,
+    "timeMonth": 301,
+    "timeYear": 751,
     "dailyMinutesDown": {
       "2024-12-16": 65
     }
@@ -53,9 +52,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 163,
-    "timeDay": 105,
-    "timeWeek": 139,
-    "timeMonth": 142,
+    "timeDay": 82,
+    "timeWeek": 131,
+    "timeMonth": 140,
     "timeYear": 174,
     "dailyMinutesDown": {}
   },
@@ -71,9 +70,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 553,
-    "timeDay": 283,
-    "timeWeek": 899,
-    "timeMonth": 529,
+    "timeDay": 292,
+    "timeWeek": 874,
+    "timeMonth": 530,
     "timeYear": 497,
     "dailyMinutesDown": {
       "2024-11-21": 17
@@ -91,9 +90,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 595,
-    "timeDay": 439,
-    "timeWeek": 580,
-    "timeMonth": 577,
+    "timeDay": 362,
+    "timeWeek": 571,
+    "timeMonth": 569,
     "timeYear": 570,
     "dailyMinutesDown": {
       "2025-01-30": 15,
