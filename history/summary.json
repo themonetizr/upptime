@@ -14,7 +14,7 @@
     "timeDay": 134,
     "timeWeek": 233,
     "timeMonth": 326,
-    "timeYear": 491,
+    "timeYear": 492,
     "dailyMinutesDown": {
       "2025-02-09": 27,
       "2024-12-16": 81
@@ -25,18 +25,19 @@
     "url": "https://api.themonetizr.com",
     "icon": "https://icons.duckduckgo.com/ip3/api.themonetizr.com.ico",
     "slug": "console",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.98%",
-    "time": 659,
+    "time": 660,
     "timeDay": 738,
     "timeWeek": 615,
     "timeMonth": 333,
     "timeYear": 764,
     "dailyMinutesDown": {
+      "2025-04-30": 0,
       "2025-04-01": 48,
       "2024-12-16": 65
     }
@@ -87,9 +88,9 @@
     "slug": "docs",
     "status": "up",
     "uptime": "99.86%",
-    "uptimeDay": "99.41%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 592,
     "timeDay": 425,
@@ -97,7 +98,6 @@
     "timeMonth": 499,
     "timeYear": 574,
     "dailyMinutesDown": {
-      "2025-04-30": 9,
       "2025-01-30": 15,
       "2024-12-09": 16
     }
