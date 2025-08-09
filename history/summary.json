@@ -68,9 +68,9 @@
     "url": "https://themonetizr.com",
     "icon": "https://icons.duckduckgo.com/ip3/themonetizr.com.ico",
     "slug": "homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.74%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -80,6 +80,7 @@
     "timeMonth": 422,
     "timeYear": 434,
     "dailyMinutesDown": {
+      "2025-08-09": 0,
       "2025-04-03": 28,
       "2024-11-21": 17
     }
