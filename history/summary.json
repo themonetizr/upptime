@@ -70,9 +70,9 @@
     "url": "https://themonetizr.com",
     "icon": "https://icons.duckduckgo.com/ip3/themonetizr.com.ico",
     "slug": "homepage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.74%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -82,6 +82,7 @@
     "timeMonth": 429,
     "timeYear": 432,
     "dailyMinutesDown": {
+      "2025-08-26": 0,
       "2025-04-03": 28,
       "2024-11-21": 17
     }
@@ -93,9 +94,9 @@
     "slug": "docs",
     "status": "up",
     "uptime": "99.87%",
-    "uptimeDay": "99.28%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.89%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.98%",
     "time": 580,
     "timeDay": 507,
@@ -103,7 +104,6 @@
     "timeMonth": 647,
     "timeYear": 592,
     "dailyMinutesDown": {
-      "2025-08-26": 10,
       "2025-08-13": 37,
       "2025-06-07": 28,
       "2025-01-30": 15,
