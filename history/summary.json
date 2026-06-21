@@ -31,16 +31,16 @@
     "url": "https://api.themonetizr.com",
     "icon": "https://icons.duckduckgo.com/ip3/api.themonetizr.com.ico",
     "slug": "console",
-    "status": "down",
-    "uptime": "99.95%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.96%",
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "93.02%",
+    "uptimeWeek": "99.00%",
+    "uptimeMonth": "99.77%",
+    "uptimeYear": "99.94%",
     "time": 440,
-    "timeDay": 203,
-    "timeWeek": 254,
-    "timeMonth": 213,
+    "timeDay": 217,
+    "timeWeek": 251,
+    "timeMonth": 214,
     "timeYear": 363,
     "dailyMinutesDown": {
       "2025-06-26": 41,
@@ -49,7 +49,7 @@
       "2026-03-18": 35,
       "2026-03-24": 26,
       "2026-04-12": 18,
-      "2026-06-21": 0
+      "2026-06-21": 101
     }
   },
   {
