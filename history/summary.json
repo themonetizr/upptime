@@ -4,17 +4,17 @@
     "url": "https://api3.themonetizr.com",
     "icon": "https://icons.duckduckgo.com/ip3/api3.themonetizr.com.ico",
     "slug": "monetizr-api",
-    "status": "down",
-    "uptime": "98.09%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.94%",
-    "time": 397,
-    "timeDay": 182,
-    "timeWeek": 283,
-    "timeMonth": 739,
-    "timeYear": 419,
+    "status": "up",
+    "uptime": "98.08%",
+    "uptimeDay": "83.89%",
+    "uptimeWeek": "97.70%",
+    "uptimeMonth": "99.38%",
+    "uptimeYear": "99.90%",
+    "time": 415,
+    "timeDay": 4688,
+    "timeWeek": 1397,
+    "timeMonth": 996,
+    "timeYear": 442,
     "dailyMinutesDown": {
       "2025-09-17": 72,
       "2026-03-26": 26,
@@ -25,7 +25,7 @@
       "2026-04-25": 22,
       "2026-07-15": 54,
       "2026-08-16": 38,
-      "2026-09-08": 1
+      "2026-09-08": 232
     }
   },
   {
